@@ -57,15 +57,23 @@
     padding: 19px 24px;
 }
 
-.column-header {
-    background-color: #2b8282;
-    padding: 19px 24px;
-}
-
 .column h3 {
     text-align: left;
     color: white;
     font-size: 1.25em;
+}
+
+.column-header-class h3{
+    font-size: 100px;
+    background-color: #2b8282;
+    padding: 19px 24px;
+    font-size: 3.00em;
+}
+
+
+.column-header{
+    background-color: #2b8282;
+    padding: 19px 24px;
 }
 
 .column a {
